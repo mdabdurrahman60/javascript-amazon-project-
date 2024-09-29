@@ -63,7 +63,6 @@ export function renderOrderSummary(){
                     <div class="delivery-options-title">
                     Choose a delivery option:
                     </div>
-                    <div class="js-payment-summary"></div>
                     ${deliveryOptionsHTML(matchingProduct,cartItem)}
                 
                 </div>
